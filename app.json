@@ -1,13 +1,13 @@
 {
-  "name": "JayBee TikTok Downloader Bot",
+  "name": "Dragoonfly TikTok Downloader Bot",
   "description": "A Telegram bot to download TikTok videos without any watermark",
   "logo" : "https://telegra.ph/file/05bae0725724007c72fa1.jpg",
-  "success_url" : "https://t.me/JayBeeBots",
+  "success_url" : "https://t.me/DragoonflyTikTokBot",
   "keywords": [
     "telegram",
     "bot",
     "tiktok",
-    "jaybee"
+    "dragoonfly"
   ],
   "repository": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",
   "website": "https://github.com/TerminalWarlord/TikTok-Downloader-Bot",

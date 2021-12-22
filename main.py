@@ -31,7 +31,6 @@ app = Client("JayBee", bot_token=bot_token, api_id=api, api_hash=hash, workers=w
 
 @app.on_message(filters.command('start'))
 def start(client, message):
-    kb = [[InlineKeyboardButton('Channel 🛡', url=chnnl),InlineKeyboardButton('Repo 🔰', url="https://github.com/TerminalWarlord/TikTok-Downloader-Bot/")]]
     reply_markup = InlineKeyboardMarkup(kb)
     app.send_message(chat_id=message.from_user.id, text=f"Привет, я **DragoonflyTikTokBot**.\nЗдесь ты сможешь скачать любое видео из тик тока без водяного знака ❤️🦋.\n\n"
                           "__**Developer :**__ __@nickx999__\n"

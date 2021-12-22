@@ -1,7 +1,7 @@
 
 
 # TikTok Downloader Bot
-A Telegram bot to download TikTok videos without any watermark.
+Бот для скачивания видео из тик тока без водяного знака❤️🦋.
 <div align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
